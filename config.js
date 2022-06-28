@@ -10,17 +10,17 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878836361']
+global.owner = ['6283160624440']
 global.pengguna = 'Ikystore'
 global.premium = []
 global.author = 'Ikystore'
-global.pemilik = ['6285878836361'] 
-global.ownernomer = '6285878836361'
+global.pemilik = ['6283160624440'] 
+global.ownernomer = '6283160624440'
 global.ownername = 'rizki'
 global.botname = 'Ikybot- MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878836361'
+global.meki = '6283160624440'
 global.footer = 'Ikybot- 𝘔 𝘋'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'ikybot' //Ubah nama kalian buat nambahin di tqtq bot
@@ -31,7 +31,7 @@ global.ig = 'https://instagram.com/ikykunnnn'
 global.gc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '6283817161861'
 global.gopay = '6283817161861'
-global.wame = 'wa.me/6285878836361'
+global.wame = 'wa.me/6283160624440'
 global.email = '-'
 global.region = 'indojepang'
 global.link = 'nekopoi.care'
